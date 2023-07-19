@@ -1,0 +1,8 @@
+.formulario {
+  background-color: rgb(150, 150, 150);
+  display: flex;
+  justify-content: center;
+  display: block;
+  border-radius: 2%;
+  width: 20;
+}
